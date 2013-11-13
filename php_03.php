@@ -1,0 +1,10 @@
+<?php
+
+//•Ï”‚Ì•×‹­
+
+	$message = "hello world"."‚±‚ñ‚É‚¿‚í";
+	echo $message;
+	
+	$into = "‚±‚ñ‚Î‚ñ‚í"."‚Â‚È‚°‚Ä‚¢‚«‚½‚¢‚æ";
+	echo $into;
+?>
